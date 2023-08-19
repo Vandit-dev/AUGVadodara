@@ -14,3 +14,5 @@
 
 Still, if you faced any issues or problems feel free to [mail me 📬](mailto:vanditcse@gmail.com)
 
+p.s. If you can't set up the Azure free account successfully, email me. I'll share the access code if I have it.
+
