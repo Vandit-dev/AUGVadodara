@@ -12,6 +12,22 @@
 
 4. [Azure free account FAQ](https://azure.microsoft.com/en-in/free/free-account-faq#layout-container-uid4f88?wt.mc_id=studentamb_254693)
 
+   # How to start with Azure For Student Account 🤔??
+    Step - 1 [Azure For Student](https://azure.microsoft.com/en-in/free/students?wt.mc_id=studentamb_254693) and click on <b>Start Free</b>
+    
+    Step - 2 Now you will redirect to <b> Sign in </b> page
+   
+    if you Sign in with <b>Your Mail ID</b>
+    
+    - directly get access after entering some personal details
+   
+     if you Sign in with <b>GitHub Account</b>
+   
+     - if you have a GitHub Student Pack you can get portal access from their also.
+             
+   So, go and grab it.
+   
+
 Still, if you faced any issues or problems feel free to [mail me 📬](mailto:vanditcse@gmail.com)
 
 p.s. If you can't set up the Azure free account successfully, email me. I'll share the access code if I have it.
